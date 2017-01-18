@@ -8,6 +8,8 @@
  *  20161229 - Modificato per gestione 3 sensori HC-SR04
  *  https://learn.adafruit.com/afmotor-library-reference/af-dcmotor# // Reference per gestione motori con shiels
  *  20160230 - Aggiunta gestione delle distanze con modifica rotazione motori MotorRight e MotorLeft
+ *
+ * BY MORONI
  *  
 */
 
